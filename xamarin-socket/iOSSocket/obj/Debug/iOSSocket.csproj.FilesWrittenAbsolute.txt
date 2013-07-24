@@ -1,0 +1,4 @@
+/Volumes/Work/iosSoket/xamarin-socket/iOSSocket/bin/Debug/iOSSocket.dll.mdb
+/Volumes/Work/iosSoket/xamarin-socket/iOSSocket/bin/Debug/iOSSocket.dll
+/Volumes/Work/iosSoket/xamarin-socket/iOSSocket/obj/Debug/iOSSocket.dll
+/Volumes/Work/iosSoket/xamarin-socket/iOSSocket/obj/Debug/iOSSocket.dll.mdb

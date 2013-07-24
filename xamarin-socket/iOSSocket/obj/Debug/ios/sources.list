@@ -1,0 +1,3 @@
+obj/Debug/ios/ObjCRuntime/Messaging.g.cs
+obj/Debug/ios/iOSSocket/GCDAsyncSocket.g.cs
+obj/Debug/ios/iOSSocket/GCDAsyncSocketDelegate.g.cs
