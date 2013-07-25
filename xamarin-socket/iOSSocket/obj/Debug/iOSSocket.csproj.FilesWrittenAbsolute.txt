@@ -2,3 +2,7 @@
 /Volumes/Work/iosSoket/xamarin-socket/iOSSocket/bin/Debug/iOSSocket.dll
 /Volumes/Work/iosSoket/xamarin-socket/iOSSocket/obj/Debug/iOSSocket.dll
 /Volumes/Work/iosSoket/xamarin-socket/iOSSocket/obj/Debug/iOSSocket.dll.mdb
+/Users/yuliiape/iosSoket/xamarin-socket/iOSSocket/obj/Debug/iOSSocket.dll
+/Users/yuliiape/iosSoket/xamarin-socket/iOSSocket/obj/Debug/iOSSocket.dll.mdb
+/Users/yuliiape/iosSoket/xamarin-socket/iOSSocket/bin/Debug/iOSSocket.dll.mdb
+/Users/yuliiape/iosSoket/xamarin-socket/iOSSocket/bin/Debug/iOSSocket.dll
